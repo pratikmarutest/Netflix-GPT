@@ -23,4 +23,4 @@
 
 % // NetFlix GPT Page 
 1. SearchBar 
-  - Movie Suggestions 
+  - Movie Suggestions.
