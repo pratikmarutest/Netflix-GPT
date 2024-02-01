@@ -1,0 +1,6 @@
+*** Netflix - GPT *** 
+
+Technologies used :- 
+1. ReactJS
+2. Tailwind CSS
+3. 

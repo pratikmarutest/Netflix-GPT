@@ -1,0 +1,26 @@
+*** Netflix - GPT *** 
+
+% Technologies/ Frameworks used :- 
+1. ReactJS
+2. Tailwind CSS
+3. Material UI 
+4. Tailwind UI 
+
+% Features we'll build :- 
+
+% // For Logged In User 
+1. Header
+2. Main Movie
+  - Trailer in backgroundc
+  - Title & Description 
+  - Movie Suggestions 
+    - MovieLists
+
+% // For Not Logged In User 
+1. HomePage 
+2. LogIn Page / Sign In Page 
+  - redirect to Browse Page 
+
+% // NetFlix GPT Page 
+1. SearchBar 
+  - Movie Suggestions 
