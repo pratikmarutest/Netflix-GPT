@@ -5,6 +5,9 @@
 2. Tailwind CSS
 3. Material UI 
 4. Tailwind UI 
+5. Formik & Yup (For form validation) We're not using in Netflix app
+  $ npm i formik
+    npm i yup
 
 % Features we'll build :- 
 
@@ -24,3 +27,5 @@
 % // NetFlix GPT Page 
 1. SearchBar 
   - Movie Suggestions.
+
+  

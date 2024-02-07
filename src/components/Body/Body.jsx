@@ -1,14 +1,19 @@
-import Login from "../common/Header";
-import Header from "../Body/Body";
+import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Login from "../Login/Login";
+import Browse from "../Browse/Browse";
+import SignUp from "../SignUp/SignUp";
 
 const Body = () => {
   return (
-    <div>
-      <Login/>
-      <h1> Body Component</h1>
-      <Header />
-    </div>
-  )
-}
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" exact element={<Login />} />
+        <Route path="/browse" element={<Browse />} />
+        <Route path="/sign-up" element={<SignUp />} />
+      </Routes>
+    </BrowserRouter>
+  );
+};
 
 export default Body;
